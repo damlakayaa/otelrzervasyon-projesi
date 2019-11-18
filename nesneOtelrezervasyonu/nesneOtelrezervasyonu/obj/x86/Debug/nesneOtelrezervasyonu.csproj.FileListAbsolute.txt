@@ -1,0 +1,26 @@
+C:\Users\asus\Desktop\nesneOtelrezervasyonu\nesneOtelrezervasyonu\bin\Debug\nesneOtelrezervasyonu.exe
+C:\Users\asus\Desktop\nesneOtelrezervasyonu\nesneOtelrezervasyonu\bin\Debug\nesneOtelrezervasyonu.pdb
+C:\Users\asus\Desktop\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.Form1.resources
+C:\Users\asus\Desktop\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.Properties.Resources.resources
+C:\Users\asus\Desktop\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.exe
+C:\Users\asus\Desktop\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.pdb
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\bin\Debug\nesneOtelrezervasyonu.exe
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\bin\Debug\nesneOtelrezervasyonu.pdb
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.csprojAssemblyReference.cache
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.Form1.resources
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.Properties.Resources.resources
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.csproj.GenerateResource.cache
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.exe
+C:\Users\Damla\Desktop\YEDEK\ders notları\webprog\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.pdb
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\bin\Debug\nesneOtelrezervasyonu.exe
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\bin\Debug\nesneOtelrezervasyonu.pdb
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.csprojAssemblyReference.cache
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.Form1.resources
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.Properties.Resources.resources
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.csproj.GenerateResource.cache
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.exe
+C:\Users\Damla\Desktop\DERSLER\algo2-son\algoritma2ödevi 17.05.2019\nesneOtelrezervasyonu\nesneOtelrezervasyonu\obj\x86\Debug\nesneOtelrezervasyonu.pdb
